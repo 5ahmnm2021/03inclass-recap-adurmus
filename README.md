@@ -2,13 +2,13 @@
 # README
 
 ### Project description: 
-Projekt
+recap
 
 ### Development platform: 
 (OS, Unity Version, Visual Studio Version, used SDKs)
 
 ### Target platform: 
-WebGL, Mobile, VR Device incl. reference resolution 
+WebGL 
 
 ### Visuals: 
 Screenshots (concept and experience), Video
@@ -20,7 +20,7 @@ Installation process, e.g. step by step instructions that I can run the project 
 (if used Fonts, Sounds, Music, Graphics, Materials, Code etc.)
 
 ### Project state: 
-incl. progress in percent
+100%
 
 ### Limitations: 
 
