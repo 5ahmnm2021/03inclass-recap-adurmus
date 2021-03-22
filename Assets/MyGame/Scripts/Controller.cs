@@ -63,7 +63,6 @@ public class Controller : MonoBehaviour
 
 
         result = float.Parse(A.text) + float.Parse(B.text);
-        Debug.Log(result);
         t.text = result.ToString();
         
     }
